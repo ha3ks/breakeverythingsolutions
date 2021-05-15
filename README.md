@@ -1,2 +1,2 @@
-# bes.github.io
-BreakEverything.Solutions Website
+# BreakEverything.Solutions
+Website code, nothing too fancy for now
